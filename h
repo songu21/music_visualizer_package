@@ -7,7 +7,7 @@ A new Flutter project.
 ### Show some :heart: and star the repo to support the project
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Rajkumar07793/music_visualizer_package/22-09-2021_null-safety/visualCrop.gif"/>
+
 
 # Example
 
@@ -16,11 +16,11 @@ A new Flutter project.
 import 'package:flutter/material.dart';
 import 'package:music_visualizer/music_visualizer.dart';
 
-void main() {
+
   runApp(MyApp());
 }
 
-class MyApp extends StatelessWidget {
+clas
   final List<Color> colors = [
     Colors.red[900]!,
     Colors.green[900]!,
